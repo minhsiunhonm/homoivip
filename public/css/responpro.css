@@ -1,0 +1,81 @@
+@media (max-width: 768px){
+	.wer1 {
+		width: 100%;
+	}
+	.wer2 {
+		width: 100%;
+	}
+	.w12 {
+		width: 100px;
+		float: left;
+	}
+	.w9 {
+		width: 100px;
+		float: left;
+	}
+	.w13 {
+		width: 100%;
+		float: left;
+	}
+	.w9x2{
+		padding: 15px 0;
+		width: 100%;
+		float: left;
+	}
+	.nuttimkiemt2 {
+		margin: 5px 15px;
+	}
+	#btnmtgt2 {
+		position: unset !important;
+		float: left;
+		clear: both;
+		margin-top: 10px;
+	}
+}
+@media (min-width: 768px){
+	.wer1 {
+		width: 100%;
+	}
+	.wer2 {
+		width: 100%;
+	}
+	.w12 {
+		width: 100px;
+		float: left;
+	}
+	.w9 {
+		width: 100px;
+		float: left;
+	}
+	.w9x2{
+		padding-top: 30px;
+	}
+}
+@media (min-width: 992px){
+	.wer1 {
+		width: 260px;
+	}
+	.wer2 {
+		width: 680px;
+	}
+	.w12 {
+		width: 16.66666667%;
+	}
+	.w9 {
+		width: 16.66666667%;
+	}
+	.w9x2{
+		padding-top: 30px;
+	}
+}
+@media (min-width: 1200px){
+	.wer1 {
+		width: 275px;
+	}
+	.wer2 {
+		width: 865px;
+	}
+	.w9x2{
+		padding-top: 30px;
+	}
+}
